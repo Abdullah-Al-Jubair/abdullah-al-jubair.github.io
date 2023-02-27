@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MD Shafkat Rahman Farabi"
-name                     : &name "MD Shafkat Rahmnan Farabi"
+title                    : "Abdullah Al Jobair"
+name                     : &name "Abdullah Al Jobair"
 description              : &description "personal description"
-url                      : https://farabi-shafkat.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://abdullah-al-jubair.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Farabi-shafkat/Farabi-shafkat.github.io"
+repository               : "Abdullah-Al-Jubair/abdullah-al-jubair.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
