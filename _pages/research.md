@@ -33,17 +33,6 @@ author_profile: true
 
 {% for post in site.publications reversed %}
  {% include archive-single.html %}
-  <ul>
-  <li><h2>{{ post.title }}</h2>
-  
-  Published in <i>{{ post.venue }}</i> on {{ post.date | date: "%-d %B %Y" }} <br><br>
-  <b>Abstract</b> {{post.excerpt}}<br><br>
-
-  <b>Preferred Citation: </b>{{post.citation}}<br><br>
- </li>
- </ul>
-
-
 
 {% endfor %}
 

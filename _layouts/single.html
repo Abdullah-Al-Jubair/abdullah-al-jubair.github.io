@@ -37,9 +37,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date and page.venue!="reject"%}
-        Published in <i>{{ post.venue }}</i> on {{ post.date | date: "%-d %B %Y" }} <br><br>
-        <b>Abstract</b> {{post.excerpt}}<br><br>
-        <b>Preferred Citation: </b>{{post.citation}}<br><br>
+          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date and page.venue=="reject"%}
           <p> {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif page.date %}

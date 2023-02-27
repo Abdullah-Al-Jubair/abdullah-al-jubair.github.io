@@ -1,0 +1,13 @@
+Faced 2 error while locally running
+1. https://github.com/tzinfo/tzinfo/wiki/Resolving-TZInfo::DataSourceNotFound-Errors
+
+2. missing webrick
+https://github.com/jekyll/jekyll/issues/8523#:~:text=think%20you%20want-,bundle%20add%20webrick.,-%F0%9F%91%8D
+
+
+- Make sure you have ruby-dev, bundler, and nodejs installed: sudo apt install ruby-dev ruby-bundler nodejs
+- Run   bundle clean     to clean up the directory (no need to run --force)
+- Run    bundle install     to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+- Run    bundle update
+- Run     bundle exec jekyll liveserve     to generate the HTML and 
+serve it from localhost:4000 the local server will automatically rebuild and refresh the pages on change.
