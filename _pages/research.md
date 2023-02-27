@@ -35,10 +35,13 @@ author_profile: true
   <ul>
   <li><h2>{{ post.title }}</h2>
   
-  Published in <i>{{ post.venue }}</i> on {{ post.date | date: "%-d %B %Y" }} <br>
-  <b>Abstract</b> {{post.excerpt}}<br>
-    
-  <b>Preferred Citation: </b>{{post.citation}}<br>
+  Published in <i>{{ post.venue }}</i> on {{ post.date | date: "%-d %B %Y" }} <br><br>
+  <b>Abstract</b> {{post.excerpt}}<br><br>
+
+  <b>Preferred Citation: </b>{{post.citation}}<br><br>
+  <b>Website: </b>{{post.paperurl}}<br><br>
+  <b>Download Link: </b>{{post.arxiv}}<br><br>
+
  </li>
  </ul>
 
