@@ -54,25 +54,22 @@ img {
 
 <img src='/images/iutlogopng.png'  style="float: left;width:20%;">
 <div class = "title">
-    Islamic University of Technology  
+    Islamic University of Technology (IUT), OIC
 </div>
 
 <div class = "semi-title">
-    BSc in Computer Science and Enginnering                        
+    BSc in Software Enginnering                        
 </div>
 <div class = "semisemi-title">
-    Dhaka, Bangladesh  <span class="tab"></span> January, 2016- March, 2021                                                         
+    Dhaka, Bangladesh  <span class="tab"></span> January, 2018- May, 2022                                                         
 </div>
 <div class = "text">
   <ul class = "text">
     <li>
-        CGPA- 3.92 out of 4 (5th in a class of 86)
+        CGPA- 3.77 out of 4
     </li>
     <li>
-        Thesis- Human Action Quality Assesment from Videos using ResNets and Weighted Aggregation
-    </li>
-    <li>
-        Supervisor- Dr. Md. Hasanul Kabir
+        Thesis- An Empirical Study on Neophytes of Stack Overflow: How Welcoming the Community is towards Them
     </li>
   </ul>
 </div>
@@ -80,15 +77,15 @@ img {
 <p></p>
 <div class="boxed">
 
-<img src='/images/Adamjee-Cantonment-College.jpg'  style="float: left;width:20%;">
+<img src='/images/dc.png'  style="float: left;width:20%;">
 <div class = "title">
-    Adamjee Cantonment College
+    Dhaka College
 </div>
 <div class = "semi-title">
     Higher Secondary Certificate                         
 </div>
 <div class = "semisemi-title">
-    Dhaka, Bangladesh  <span class="tab"></span> September, 2014- April, 2016                                                         
+    Dhaka, Bangladesh  <span class="tab"></span> September, 2015- April, 2017                                                         
 </div>
 <div class = "text">
   <ul class = "text">
