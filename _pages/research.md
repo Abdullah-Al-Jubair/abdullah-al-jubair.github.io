@@ -40,9 +40,6 @@ author_profile: true
   <b>Abstract</b> {{post.excerpt}}<br><br>
 
   <b>Preferred Citation: </b>{{post.citation}}<br><br>
-  <b>Website: </b>{{post.paperurl}}<br><br>
-  <b>Download Link: </b>{{post.arxiv}}<br><br>
-
  </li>
  </ul>
 
