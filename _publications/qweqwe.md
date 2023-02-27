@@ -1,7 +1,7 @@
 ---
-title: "Hellllllllloooo"
+title: "Towards Understanding the Attitude of Community to Neophytes and Their Activities while Facing Unwelcoming Environment in Stack Overflow"
 collection: publications
-permalink: /publications/AQAWD
+permalink: /publications/towards
 excerpt: 'ewfwefwef'
 date: '26 April 2022'
 venue: 'ENASE-2022'
