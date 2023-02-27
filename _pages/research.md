@@ -39,12 +39,14 @@ author_profile: true
   <b>Abstract</b> {{post.excerpt}}<br><br>
 
   <b>Preferred Citation: </b>{{post.citation}}<br><br>
+  [paperurl](https://www.scitepress.org/PublishedPapers/2022/110811/110811.pdf){:.btn--research}
+  [arxiv](https://www.scitepress.org/PublicationsDetail.aspx?ID=vrq8QbZQ28M=&t=1){:.btn--research}
   <b>Website: </b>{{post.paperurl}}<br><br>
   <b>Download Link: </b>{{post.arxiv}}<br><br>
 
  </li>
  </ul>
 
-  
+
 
 {% endfor %}

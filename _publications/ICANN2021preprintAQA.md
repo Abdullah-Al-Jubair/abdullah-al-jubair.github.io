@@ -14,5 +14,5 @@ underReview: 'No'
 
 ---
 
-[Preprint](https://www.scitepress.org/PublishedPapers/2022/110811/110811.pdf){:.btn--research}
-[Scitepress](https://www.scitepress.org/PublicationsDetail.aspx?ID=vrq8QbZQ28M=&t=1){:.btn--research}
+[paperurl](https://www.scitepress.org/PublishedPapers/2022/110811/110811.pdf){:.btn--research}
+[arxiv](https://www.scitepress.org/PublicationsDetail.aspx?ID=vrq8QbZQ28M=&t=1){:.btn--research}
