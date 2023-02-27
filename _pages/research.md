@@ -42,8 +42,6 @@ author_profile: true
  </li>
  </ul>
 
-  [Springer LCNS](www.facebook.com){:.btn--research}
-  [Arxiv Preprint](www.youtube.com){:.btn--research}
-  [Code](https://github.com/Farabi-shafkat/Improving-Action-Quality-Assessment-using-ResNets-and-Weighted-Aggregation){:.btn--research} <br>
+  
 
 {% endfor %}
