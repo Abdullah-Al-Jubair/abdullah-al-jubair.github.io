@@ -42,8 +42,8 @@ author_profile: true
  </li>
  </ul>
 
-  [Springer LCNS](https://link.springer.com/chapter/10.1007/978-3-031-04881-4_46){:.btn--research}
-  [Arxiv Preprint](https://arxiv.org/pdf/2102.10555.pdf){:.btn--research}
+  [Springer LCNS](www.facebook.com){:.btn--research}
+  [Arxiv Preprint](www.youtube.com){:.btn--research}
   [Code](https://github.com/Farabi-shafkat/Improving-Action-Quality-Assessment-using-ResNets-and-Weighted-Aggregation){:.btn--research} <br>
 
 {% endfor %}

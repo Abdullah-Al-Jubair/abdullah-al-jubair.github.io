@@ -14,6 +14,6 @@ underReview: 'No'
 
 
 
-[Arxiv Preprint](https://arxiv.org/pdf/2102.10555.pdf){:.btn--research}
+[Preprint](https://www.scitepress.org/PublishedPapers/2022/110811/110811.pdf){:.btn--research}
 [Scitepress](https://www.scitepress.org/PublicationsDetail.aspx?ID=vrq8QbZQ28M=&t=1){:.btn--research}
-[#Code](https://github.com/Farabi-shafkat/Improving-Action-Quality-Assessment-using-ResNets-and-Weighted-Aggregation){:.btn--research}
+
