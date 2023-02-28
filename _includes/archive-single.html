@@ -56,7 +56,6 @@
     
 
 <!-- citation and icon code -->
-    <p>
       {% if post.citation %}
           {{ post.citation }}
       {% endif %}
@@ -73,7 +72,6 @@
       {% if post.github %}
         <a href="{{ post.github }}"><i class = "btn--research">Github</a>
       {% endif %}
-    </p>
 
 
 
@@ -86,6 +84,6 @@
   {% elsif post.paperurl %}
     <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
   {% endif %}
-  
+
   </article>
 </div>
