@@ -61,19 +61,21 @@
     {{ post.citation }}
   {% endif %}
   <br>
+  <br>
   {% if post.paperurl %}
-    <a href="{{ post.paperurl }}"><i class = "btn--research">Website</i></a>
+    <a href="{{ post.paperurl }}" class = "btn--research">Website</a>
   {% endif %}
   {% if post.arxiv %}
-    <a href="{{ post.link }}"><i class = "btn--research">ArXiv</i></a>
+    <a href="{{ post.link }}" class = "btn--research">PDF</a>
   {% endif %}
   {% if post.code %}
-    <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+    <a href="{{ post.code }}" class="fas fa-fw fa-code zoom" aria-hidden="true"></a>
   {% endif %}
   {% if post.github %}
-    <a href="{{ post.github }}"><i class = "btn--research">Code</i></a>
+    <a href="{{ post.github }}" class = "btn--research">Code</a>
   {% endif %}
   </p>
 
+  
   </article>
 </div>
