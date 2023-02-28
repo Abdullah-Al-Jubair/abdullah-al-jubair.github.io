@@ -74,5 +74,18 @@
         <a href="{{ post.github }}"><i class = "btn--research">Github</a>
       {% endif %}
     </p>
+
+
+
+    {% if post.citation and post.paperurl %}
+    <a href="{{post.paperurl}}" class = "btn--research">PDF</a>
+    <a href="{{post.arxiv}}" class = "btn--research">ArXiv</a>
+    <a href="{{post.github}}" class = "btn--research">Code</a>
+  {% elsif post.citation %}
+    <p>Recommended citation: {{ post.citation }} </p>
+  {% elsif post.paperurl %}
+    <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+  {% endif %}
+  
   </article>
 </div>
