@@ -56,26 +56,23 @@
     
 
 <!-- citation and icon code -->
-<p>
-  {% if post.citation %}
-    {{ post.citation }}
-  {% endif %}
-  <br>
-  {% if post.paperurl %}
-    <a href="{{ post.paperurl }}"><i class = "btn--research">Website</a>
-  {% endif %}
-  {% if post.arxiv %}
-    <a href="{{ post.arxiv }}"><i class = "btn--research">PDF</a>
-  {% endif %}
-  {% if post.code %}
-    <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-  {% endif %}
-  {% if post.github %}
-    <a href="{{ post.github }}"><i class = "btn--research">Github</a>
-  {% endif %}
-  </p>
-<!-- citation and icon code -->
-
-
+    <p>
+      {% if post.citation %}
+          {{ post.citation }}
+      {% endif %}
+      <br>
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}"><i class = "btn--research">Website</a>
+      {% endif %}
+      {% if post.arxiv %}
+        <a href="{{ post.arxiv }}"><i class = "btn--research">PDF</a>
+      {% endif %}
+      {% if post.code %}
+        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.github %}
+        <a href="{{ post.github }}"><i class = "btn--research">Github</a>
+      {% endif %}
+    </p>
   </article>
 </div>
